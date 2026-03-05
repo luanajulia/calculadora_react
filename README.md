@@ -24,4 +24,4 @@ Este projeto foi desenvolvido usando:
 
 ```bash
 
-git clone [https://github.com/seu-nome-de-usuário/nome-do-repositório.git](https://github.com/seu-nome-de-usuário/nome-do-repositório.git)
+git clone https://github.com/luanajulia/CalculadoraReact.git
