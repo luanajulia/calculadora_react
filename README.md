@@ -1,27 +1,27 @@
-# 🧮 Calculator with React
+# 🧮 Calculadora com React
 
-A modern and responsive calculator built to practice concepts of state and programming logic in React.
+Uma calculadora moderna e responsiva, criada para praticar conceitos de estado e lógica de programação em React.
 
-## 🚀 Technologies
-This project was developed using:
+## 🚀 Tecnologias
+Este projeto foi desenvolvido usando:
 
-- **React.js** (Hooks like useState)
+- **React.js** (Hooks como useState)
 - **CSS3 / Styled Components**
-- **Vite** (or Create React App)
+- **Create React App** 
 
-## ✨ Features
-- Basic mathematical operations (addition, subtraction, multiplication, and division).
+## ✨ Recursos
+- Operações matemáticas básicas (adição, subtração, multiplicação e divisão).
 
-- Clearance display (AC).
+- Exibição de saldo (AC).
 
-- Decimal number support.
+- Suporte a números decimais.
 
-- Responsive design for mobile devices.
+- Design responsivo para dispositivos móveis.
 
-## 🛠️ How to run the project
+## 🛠️ Como executar o projeto
 
-1. Clone the repository:
+1. Clone o repositório:
 
-``bash
+```bash
 
-git clone [https://github.com/your-username/repository-name.git](https://github.com/your-username/repository-name.git)
+git clone [https://github.com/seu-nome-de-usuário/nome-do-repositório.git](https://github.com/seu-nome-de-usuário/nome-do-repositório.git)
